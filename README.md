@@ -70,4 +70,4 @@ This is a simple web application that allows users to manage a to-do list. The a
 
 ## Live Application URL
 
-- You can view the deployed application at: [Your Firebase Hosting URL](https://your-firebase-project-id.web.app)
+- You can view the deployed application at:https://to-do-list-88136881-9d972.web.app/
